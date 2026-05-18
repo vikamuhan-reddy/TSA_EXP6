@@ -103,7 +103,7 @@ plt.show()
 ### OUTPUT:
 <img width="600" height="450" alt="Screenshot 2026-05-18 092714" src="https://github.com/user-attachments/assets/a2e657e3-e1f1-46b2-83e0-fb0ab8a9662c" />
 
-<img width="600" height="600" alt="Screenshot 2026-05-18 092707" src="https://github.com/user-attachments/assets/87ed24cf-5dec-4ade-aa35-7b9c84daf1fd" />
+<img width="1000" height="500" alt="Screenshot 2026-05-18 092707" src="https://github.com/user-attachments/assets/87ed24cf-5dec-4ade-aa35-7b9c84daf1fd" />
 
 
 ### RESULT:
